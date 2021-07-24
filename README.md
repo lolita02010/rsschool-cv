@@ -1,1 +1,0 @@
-https://lolita02010.github.io/rsschool-cv/cv
