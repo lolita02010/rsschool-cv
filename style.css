@@ -1,0 +1,106 @@
+.logo{
+margin-left: 20%;
+margin-right: 20%;
+text-align: center;
+}
+
+.logos{
+width: 100%;
+height: 100px;
+}
+
+.container{
+margin-right: 20%;
+margin-left: 20%;
+background-color: rgb(247, 244, 113);
+}
+
+.left{
+width: 30%;
+float: left;
+margin: auto;
+}
+
+.right{
+width: 70%;
+float: right;
+margin: auto;
+}
+
+.profile{
+width: 50%;
+height: 50%;
+border: 3px solid rgb(66, 30, 150); 
+box-shadow: 0 0 7px rgb(102, 102, 102);
+}
+
+.name{
+color: gold;
+text-align: left;
+font: 150% serif;
+}
+
+.skills{
+color: gold;
+text-align: center;
+font: 140% serif;
+}
+
+.html {width: 70%; background-color: #410a5a;}
+.css {width: 50%; background-color: #6f0bb3;}
+.js {width: 10%; background-color: #b367bd;}
+.git {width: 30%; background-color: #8141b6;}
+.markdown {width: 50%; background-color: #6f0bb3;}
+
+.aboutme{
+color: gold;
+text-align: center;
+font: 200% serif;
+background-color: rgb(128, 64, 173);
+}
+
+.personality{
+color: gold;
+text-align: center;
+font: 200% serif;
+background-color: rgb(161, 97, 207);
+}
+
+.education{
+color: gold;
+text-align: center;
+font: 200% serif ;
+background-color: rgb(178, 122, 218); 
+}
+
+.language{
+color: gold;
+text-align: center;
+font: 200% serif;
+background-color: rgb(203, 164, 231);  
+}
+
+.english {width: 40%; background-color: #8141b6;}
+
+.text{
+font: 130% serif; 
+}
+
+.foot{
+margin-left: 20%;
+margin-right: 20%;
+margin-top: 50%;
+text-align: center;
+background-color: rgb(201, 159, 235);
+}
+
+.myprofile{
+color: gold;
+text-align: center;
+font: 100% serif;
+
+}
+.img{
+width: 10%;
+height: 10%;
+}
